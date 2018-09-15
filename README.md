@@ -12,3 +12,10 @@ based on ad9959 and display in stm32f429  oscilloscope
   The amplitude-frequency curve is an important curve in a circuit network, through which we can obtain its working frequency range. It is also similar to the phase-frequency curve. The network analyzer can obtain the amplitude-frequency characteristic and phase-frequency characteristic curve of the network by inputting the frequency sweep signal, that is, the Bode diagram. The main aim of this design is to get the amplitude-frequency curve of a given network, the measured network is programmable filter based on max262, which controller is stm32f103c8t6.
 
 **Key words**: Multi-function measuring instrument  Direct frequency digital synthesizer  Frequency spectrum  Amplitude frequency characteristic curve  Oscilloscope  XY scan
+
+##  some pics
+
+![](https://github.com/xdr940/spectrometer/raw/master/pics/pic2.png)
+![](https://github.com/xdr940/spectrometer/raw/master/pics/pic3.png)
+![](https://github.com/xdr940/spectrometer/raw/master/pics/pic6.png)
+![](https://github.com/xdr940/spectrometer/raw/master/pics/pic8.png)
