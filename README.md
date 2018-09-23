@@ -14,7 +14,9 @@ based on ad9959 and display in stm32f429  oscilloscope
 **Key words**: Multi-function measuring instrument  Direct frequency digital synthesizer  Frequency spectrum  Amplitude frequency characteristic curve  Oscilloscope  XY scan
 
 ##  some pics
-
+![](https://github.com/xdr940/spectrometer/raw/master/pics/overview.jpg)
+![](https://github.com/xdr940/spectrometer/raw/master/pics/overview2.jpg)
+![](https://github.com/xdr940/spectrometer/raw/master/pics/programmable_filter_and_its_controllor.jpg)
 ![](https://github.com/xdr940/spectrometer/raw/master/pics/pic2.png)
 ![](https://github.com/xdr940/spectrometer/raw/master/pics/pic3.png)
 ![](https://github.com/xdr940/spectrometer/raw/master/pics/pic6.png)
