@@ -13,7 +13,7 @@ based on ad9959 and display in stm32f429  oscilloscope
 
 **Key words**: Multi-function measuring instrument  Direct frequency digital synthesizer  Frequency spectrum  Amplitude frequency characteristic curve  Oscilloscope  XY scan
 
-##  some pics
+##   pics
 ![](https://github.com/xdr940/spectrometer/raw/master/pics/overview.jpg)
 ![](https://github.com/xdr940/spectrometer/raw/master/pics/overview2.jpg)
 ![](https://github.com/xdr940/spectrometer/raw/master/pics/programmable_filter_and_its_controllor.jpg)
@@ -27,12 +27,16 @@ based on ad9959 and display in stm32f429  oscilloscope
 
 vca821：链接： https://pan.baidu.com/s/1wADx1TkH376WdBm3dHEpcQ  
 提取码：m1oc 
+
 ad637：链接： https://pan.baidu.com/s/1-tXFXszYEmewGh8tx90AgA  
 提取码：zwa3 
+
 ad8367：链接： https://pan.baidu.com/s/1pRKGAxD8JTbfN1X19uOJhg  
 提取码：hzaf 
+
 ad835：链接： https://pan.baidu.com/s/131-jncVA0o0PrxdgvLrUzA  
 提取码：8sym 
+
 5430：链接： https://pan.baidu.com/s/1FaLzc5xipcgazgWVWtmltg  
 提取码：d6yq 
 
